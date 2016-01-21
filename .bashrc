@@ -1,0 +1,1 @@
+alias pwdscp='echo "$LOGNAME@$HOSTNAME:$PWD"'
